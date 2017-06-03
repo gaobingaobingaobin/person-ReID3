@@ -1,2 +1,2 @@
 # person-ReID3
-Structured_Laplacian_regularized_dictionary_Learning
+Structured_Laplacian_regularized_dictionary_Learning. Note: The VIPeR_data_trial_1.dat is downloaded from https://sites.google.com/site/elyorkodirovresearch/publications where  the dat file belong to ''Dictionary Learning with Iterative Laplacian Regularisation for Unsupervised Person Re-identification (BMVC).  [CODE] [CMC curves]   E. Kodirov, Tao Xiang, Shaogong Gong, Swansea, UK, Sep. 2015.''
